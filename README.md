@@ -6,7 +6,7 @@ Inferential Awareness is an evidence-first safety agent. It pairs **Amazon Bedro
 - ask for missing evidence rather than hallucinate; or
 - give a safe boundary and redirect rather than help with a harmful request.
 
-**Hackathon tags:** `#strands-decider-2b` `#guardrails`  
+
 **Decision pattern:** Guardrails — Evidence-first response gate
 
 ## The meaningful decision
