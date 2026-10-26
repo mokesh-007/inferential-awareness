@@ -61,7 +61,7 @@ python -m signal_gate.app
 
 Demo sequence:
 
-```image
+``
 <img width="1907" height="561" alt="image" src="https://github.com/user-attachments/assets/7806d7ff-621a-4399-bd6b-f5b1438c923a" />
 
 ```
