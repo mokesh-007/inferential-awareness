@@ -80,9 +80,3 @@ Inferential Awareness> [Bedrock produces a concise, source-grounded answer]
 
 Use the Dockerfile to run Inferential Awareness on ECS Fargate or AgentCore Runtime, and run Decider 2B behind a private EC2 GPU endpoint. Amazon Bedrock supplies text generation through the service’s task role. See [`deploy/README.md`](deploy/README.md) for the network and IAM boundaries.
 
-## Submission materials
-
-- [Builder Center article draft](submission/BUILDER_CENTER_ARTICLE.md)
-- [Under-three-minute public demo script](submission/DEMO_VIDEO_SCRIPT.md)
-- [Official Decider repository](https://github.com/strands-labs/strands-decider)
-
