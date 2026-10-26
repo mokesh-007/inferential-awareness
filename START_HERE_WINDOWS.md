@@ -95,11 +95,9 @@ The real chat needs Bedrock credentials. You can still see the decision rules wi
 & .\.venv\Scripts\python.exe -m pytest -q
 ```
 
-These checks use pretend Decider answers; they demonstrate the policy but are not a live Bedrock run. For the hackathon demo, run the actual Decider service and connect the agent to Amazon Bedrock.
 
-## Hackathon checklist
 
-This folder gives you source code, a reusable `#guardrails` pattern, and drafts for the article and demo. Before submitting, you still need to run the live agent, publish the source in a public repository, publish the article on Builder Center, and make a public demo video under three minutes. Add both tags to your article: `#strands-decider-2b` and `#guardrails`. Your agent can run locally while it calls Bedrock; use an AWS-hosted runtime only if you choose to deploy it as a separate next step.
+
 
 ## Common problems
 
