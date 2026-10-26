@@ -61,17 +61,9 @@ python -m signal_gate.app
 
 Demo sequence:
 
-```text
-Request> What is our refund policy?
-Trusted context>
+```image
+<img width="1907" height="561" alt="image" src="https://github.com/user-attachments/assets/7806d7ff-621a-4399-bd6b-f5b1438c923a" />
 
-Inferential Awareness> I don't have enough trusted evidence to answer that reliably...
-
-Request> What is our refund policy?
-Trusted context>
-Approved policy: customers may request a refund within 30 days of purchase.
-
-Inferential Awareness> [Bedrock produces a concise, source-grounded answer]
 ```
 
 `pytest` runs deterministic policy tests using a fake Decider—no AWS account or model download is needed for those checks.
