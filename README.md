@@ -71,4 +71,5 @@ Demo sequence:
 ## Deploy on AWS
 
 Use the Dockerfile to run Inferential Awareness on ECS Fargate or AgentCore Runtime, and run Decider 2B behind a private EC2 GPU endpoint. Amazon Bedrock supplies text generation through the service’s task role. See [`deploy/README.md`](deploy/README.md) for the network and IAM boundaries.
-
+```
+join Growth X OFF Campus Using refer code 7XVVR4
